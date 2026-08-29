@@ -39,7 +39,7 @@ Ensure you have the following installed on your system:
 ### 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sangeetanandanvishal04/social-media-monolithic.git
+git clone https://github.com/poonampoonia01/social-media-monolithic.git
 cd social-media-monolithic
 ```
 
